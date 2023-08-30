@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at Page_login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings",
+        "step 5: At Page_settings click on hyperlink_team_project_testcloudtunnel --> navigate to Page_testCloudTunnel",
+        "step 6: Add visual checkpoint at Page_testCloudTunnel"
+    ]
+}

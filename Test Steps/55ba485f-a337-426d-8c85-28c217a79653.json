@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at Page_login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases",
+        "step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_suites --> navigate to Page_test-design_test-suites",
+        "step 6: At Page_test-design_test-suites click on button_nghi",
+        "step 7: Add visual checkpoint at Page_test-design_test-suites"
+    ]
+}

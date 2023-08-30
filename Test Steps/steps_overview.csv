@@ -1,0 +1,474 @@
+Flow ID,Test Steps,Flow Priority
+5,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_planning --> navigate to Page_test-planning
+step 5: At Page_test-planning click on button_open_schedule_dialog
+step 6: Add visual checkpoint at Page_test-planning",High
+27,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_planning --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_team_project_overview --> navigate to Page_overview
+step 6: At Page_overview click on hyperlink_team_project_failed_test_result --> navigate to Page_failed-test-result
+step 7: Add visual checkpoint at Page_failed-test-result",High
+57,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_planning --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_team_project_overview --> navigate to Page_overview
+step 6: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 7: At Page_executions click on hyperlink_team_project_executions
+step 8: At Page_executions click on button_nghi
+step 9: Add visual checkpoint at Page_executions",High
+6,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_planning --> navigate to Page_test-planning
+step 5: At Page_test-planning click on button_select_organization
+step 6: Add visual checkpoint at Page_test-planning",High
+9,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_releases --> navigate to Page_releases
+step 6: Add visual checkpoint at Page_releases",High
+7,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_planning --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_team_project_grid --> navigate to Page_grid
+step 6: Add visual checkpoint at Page_grid",High
+8,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_planning --> navigate to Page_test-planning
+step 5: At Page_test-planning click on hyperlink_team_project_katalon_eyes --> navigate to Page_katalon-eyes
+step 6: Add visual checkpoint at Page_katalon-eyes",High
+28,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on div_root_uploaded_data
+step 6: At Page_test-design_test-cases click on span_object
+step 7: Add visual checkpoint at Page_test-design_test-cases",High
+29,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_suites --> navigate to Page_test-design_test-suites
+step 6: At Page_test-design_test-suites click on button_select_organization
+step 7: Add visual checkpoint at Page_test-design_test-suites",High
+30,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_suites --> navigate to Page_test-design_test-suites
+step 6: At Page_test-design_test-suites click on button_nghi
+step 7: Add visual checkpoint at Page_test-design_test-suites",High
+32,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_web_services --> navigate to Page_web-services
+step 6: At Page_web-services click on button_nghi
+step 7: Add visual checkpoint at Page_web-services",Medium
+31,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_web_services --> navigate to Page_web-services
+step 6: At Page_web-services click on hyperlink_team_project_web_services
+step 7: At Page_web-services click on div_object
+step 8: At Page_web-services click on hyperlink_team_project_web_services_anomalies --> navigate to Page_web-services-anomalies
+step 9: Add visual checkpoint at Page_web-services-anomalies",Medium
+33,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_web_services --> navigate to Page_web-services
+step 6: At Page_web-services click on button_select_organization
+step 7: Add visual checkpoint at Page_web-services",Medium
+10,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on button_g5_add_test_case
+step 6: Add visual checkpoint at Page_test-design_test-cases",Medium
+35,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 6: At Page_executions click on hyperlink_upload_test_run_reports --> navigate to Page_import-manual-reports
+step 7: Add visual checkpoint at Page_import-manual-reports",Medium
+36,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 6: At Page_executions click on button_select_organization
+step 7: Add visual checkpoint at Page_executions",Medium
+34,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 6: At Page_executions click on hyperlink_team_project_test_reports_test_maintena --> navigate to Page_test-reports_test-maintenance_active
+step 7: Add visual checkpoint at Page_test-reports_test-maintenance_active",Medium
+37,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 6: At Page_executions click on hyperlink_team_project_test_reports_test_executio --> navigate to Page_test-reports_test-execution_test-performance
+step 7: Add visual checkpoint at Page_test-reports_test-execution_test-performance",Medium
+38,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_test_reports_test_maintena --> navigate to Page_test-reports_test-maintenance_active
+step 6: At Page_test-reports_test-maintenance_active click on hyperlink_team_project_test_reports_test_maintena --> navigate to Page_test-reports_test-maintenance_flakiness-report
+step 7: Add visual checkpoint at Page_test-reports_test-maintenance_flakiness-report",Medium
+39,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_test_reports_test_maintena --> navigate to Page_test-reports_test-maintenance_active
+step 6: At Page_test-reports_test-maintenance_active click on hyperlink_team_project_test_reports_test_maintena --> navigate to Page_test-reports_test-maintenance_stale
+step 7: Add visual checkpoint at Page_test-reports_test-maintenance_stale",Medium
+58,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_katalon_eyes --> navigate to Page_katalon-eyes
+step 6: At Page_katalon-eyes click on hyperlink_page_visual_testing_view_setup_doc
+step 7: At Page_katalon-eyes click on hyperlink_page_visual_testing_view_overview_doc
+step 8: At Page_katalon-eyes click on hyperlink_team_project_baseline_collection --> navigate to Page_baseline-collection
+step 9: At Page_baseline-collection click on button_create_baseline_collection
+step 10: Add visual checkpoint at Page_baseline-collection",Medium
+40,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_test_reports_test_executio --> navigate to Page_test-reports_test-execution_test-performance
+step 6: At Page_test-reports_test-execution_test-performance click on div_object
+step 7: At Page_test-reports_test-execution_test-performance click on div_react_select_2_option_0
+step 8: At Page_test-reports_test-execution_test-performance click on button_select_organization
+step 9: Add visual checkpoint at Page_test-reports_test-execution_test-performance",Medium
+11,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_executions --> navigate to Page_executions
+step 6: At Page_executions click on hyperlink_team_project_executions
+step 7: At Page_executions click on hyperlink_team_project_test_reports_test_executio --> navigate to Page_test-reports_test-execution_frequency-report
+step 8: Add visual checkpoint at Page_test-reports_test-execution_frequency-report",Medium
+41,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_katalon_eyes --> navigate to Page_katalon-eyes
+step 6: At Page_katalon-eyes click on button_settings
+step 7: Add visual checkpoint at Page_katalon-eyes",Medium
+42,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_katalon_eyes --> navigate to Page_katalon-eyes
+step 6: At Page_katalon-eyes click on button_nghi
+step 7: Add visual checkpoint at Page_katalon-eyes",Medium
+12,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_overview --> navigate to Page_overview
+step 5: At Page_overview click on hyperlink_team_project_test_reports_test_design_r --> navigate to Page_test-reports_test-design_requirement-test-run-coverage
+step 6: Add visual checkpoint at Page_test-reports_test-design_requirement-test-run-coverage",Medium
+13,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_releases --> navigate to Page_releases
+step 5: At Page_releases input on input_object
+step 6: At Page_releases click on button_object
+step 7: At Page_releases click on hyperlink_create_release --> navigate to Page_releases_create
+step 8: Add visual checkpoint at Page_releases_create",Medium
+43,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_releases --> navigate to Page_releases
+step 5: At Page_releases click on hyperlink_team_project_autonomous_user_journeys --> navigate to Page_autonomous_user-journeys
+step 6: At Page_autonomous_user-journeys click on button_select_organization
+step 7: Add visual checkpoint at Page_autonomous_user-journeys",Medium
+44,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_releases --> navigate to Page_releases
+step 5: At Page_releases click on hyperlink_team_project_releases
+step 6: At Page_releases click on button_make_active_release
+step 7: Add visual checkpoint at Page_releases",Medium
+45,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_releases --> navigate to Page_releases
+step 5: At Page_releases click on hyperlink_team_project_releases
+step 6: At Page_releases click on hyperlink_edit --> navigate to Page_edit
+step 7: Add visual checkpoint at Page_edit",Medium
+59,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_releases --> navigate to Page_releases
+step 5: At Page_releases click on hyperlink_team_project_releases
+step 6: At Page_releases click on hyperlink_team_project_releases_plans --> navigate to Page_plans
+step 7: At Page_plans click on hyperlink_team_project_releases_executions --> navigate to Page_executions
+step 8: Add visual checkpoint at Page_executions",Medium
+14,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_releases --> navigate to Page_releases
+step 5: At Page_releases click on span_object
+step 6: Add visual checkpoint at Page_releases",Medium
+60,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_project --> navigate to Page_test-project
+step 6: At Page_test-project click on hyperlink_team_project_test_project
+step 7: At Page_test-project click on button_select_organization
+step 8: Add visual checkpoint at Page_test-project",Medium
+61,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_project --> navigate to Page_test-project
+step 6: At Page_test-project click on hyperlink_team_project_test_project
+step 7: At Page_test-project click on button_settings
+step 8: Add visual checkpoint at Page_test-project",Medium
+52,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_project --> navigate to Page_test-project
+step 6: At Page_test-project click on span_object
+step 7: Add visual checkpoint at Page_test-project",Medium
+51,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_suites --> navigate to Page_test-design_test-suites
+step 6: At Page_test-design_test-suites click on hyperlink_team_project_test_design_test_objects --> navigate to Page_test-design_test-objects
+step 7: Add visual checkpoint at Page_test-design_test-objects",Medium
+53,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_katalon_eyes --> navigate to Page_katalon-eyes
+step 6: At Page_katalon-eyes click on hyperlink_team_project_baseline_collection --> navigate to Page_baseline-collection
+step 7: Add visual checkpoint at Page_baseline-collection",Medium
+46,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_cases_dra --> navigate to Page_test-design_test-cases_draft-1693387706782-New-test-case_edit
+step 6: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on button_object
+step 7: Add visual checkpoint at Page_test-design_test-cases_draft-1693387706782-New-test-case_edit",Low
+48,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_cases_dra --> navigate to Page_test-design_test-cases_draft-1693387706782-New-test-case_edit
+step 6: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on button_object
+step 7: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on span_object
+step 8: Add visual checkpoint at Page_test-design_test-cases_draft-1693387706782-New-test-case_edit",Low
+47,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_cases_dra --> navigate to Page_test-design_test-cases_draft-1693387706782-New-test-case_edit
+step 6: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on button_object
+step 7: Add visual checkpoint at Page_test-design_test-cases_draft-1693387706782-New-test-case_edit",Low
+49,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_cases_dra --> navigate to Page_test-design_test-cases_draft-1693387706782-New-test-case_edit
+step 6: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on button_select_organization
+step 7: Add visual checkpoint at Page_test-design_test-cases_draft-1693387706782-New-test-case_edit",Low
+50,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_test_design_test_cases --> navigate to Page_test-design_test-cases
+step 5: At Page_test-design_test-cases click on hyperlink_team_project_test_design_test_cases_dra --> navigate to Page_test-design_test-cases_draft-1693387706782-New-test-case_edit
+step 6: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on hyperlink_team_project_test_design_test_cases_dra
+step 7: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on hyperlink_team_project_test_design_test_cases_dra
+step 8: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on div_object
+step 9: At Page_test-design_test-cases_draft-1693387706782-New-test-case_edit click on button_g5_record_test_case
+step 10: Add visual checkpoint at Page_test-design_test-cases_draft-1693387706782-New-test-case_edit",Low
+62,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_project --> navigate to Page_test-project
+step 6: At Page_test-project click on hyperlink_team_project_agent --> navigate to Page_agent
+step 7: At Page_agent click on hyperlink_team_project_integrations --> navigate to Page_integrations
+step 8: Add visual checkpoint at Page_integrations",Low
+54,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_custom_fields --> navigate to Page_custom-fields
+step 6: At Page_custom-fields click on button_object
+step 7: Add visual checkpoint at Page_custom-fields",Low
+55,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_custom_fields --> navigate to Page_custom-fields
+step 6: At Page_custom-fields click on button_nghi
+step 7: Add visual checkpoint at Page_custom-fields",Low
+56,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_custom_fields --> navigate to Page_custom-fields
+step 6: At Page_custom-fields click on button_select_organization
+step 7: Add visual checkpoint at Page_custom-fields",Low
+66,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_project --> navigate to Page_test-project
+step 6: At Page_test-project click on hyperlink_connect_git_script_repository --> navigate to Page_git-test-project_setup
+step 7: At Page_git-test-project_setup click on h5_object
+step 8: At Page_git-test-project_setup click on div_object
+step 9: Add visual checkpoint at Page_git-test-project_setup",Low
+15,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_testcloudtunnel --> navigate to Page_testCloudTunnel
+step 6: Add visual checkpoint at Page_testCloudTunnel",Low
+63,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_project --> navigate to Page_test-project
+step 6: At Page_test-project click on hyperlink_team_project_test_project
+step 7: At Page_test-project click on button_delete
+step 8: Add visual checkpoint at Page_test-project",Low
+16,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on button_select_organization
+step 6: Add visual checkpoint at Page_settings",Low
+17,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on button_delete_project
+step 6: Add visual checkpoint at Page_settings",Low
+19,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on button_ra_ai_test_stability_clicked
+step 5: At Page_project click on span_object
+step 6: Add visual checkpoint at Page_project",Low
+18,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on button_ra_ai_test_stability_clicked
+step 5: At Page_project click on button_ra_ai_common_errors_clicked
+step 6: Add visual checkpoint at Page_project",Low
+64,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_katalon_studio_licenses --> navigate to Page_user_license
+step 6: At Page_user_license click on span_object --> navigate to Page_home
+step 7: At Page_home click on button_select_organization
+step 8: At Page_home click on div_object
+step 9: Add visual checkpoint at Page_home",Low
+65,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_agent --> navigate to Page_agent
+step 6: At Page_agent click on hyperlink_team_project_agent_k8s --> navigate to Page_agent_k8s
+step 7: At Page_agent_k8s click on hyperlink_docs_katalon_com_katalon_analytics_docs_
+step 8: At Page_agent_k8s click on hyperlink_team_project_agent_circle_ci --> navigate to Page_agent_circle-ci
+step 9: At Page_agent_circle-ci click on hyperlink_docs_katalon_com_katalon_analytics_docs_
+step 10: At Page_agent_circle-ci click on hyperlink_team_project_agent_test_cloud --> navigate to Page_agent_test-cloud
+step 11: Add visual checkpoint at Page_agent_test-cloud",Low
+26,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on hyperlink_team_project_settings --> navigate to Page_settings
+step 5: At Page_settings click on hyperlink_team_project_test_environment_installat --> navigate to Page_test-environment-installation
+step 6: At Page_test-environment-installation click on button_object
+step 7: Add visual checkpoint at Page_test-environment-installation",Low
+20,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_katalon_api_key --> navigate to Page_user_apikey
+step 6: At Page_user_apikey click on button_remove_api_key
+step 7: Add visual checkpoint at Page_user_apikey",Low
+21,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_katalon_api_key --> navigate to Page_user_apikey
+step 6: At Page_user_apikey click on button_nghi
+step 7: Add visual checkpoint at Page_user_apikey",Low
+22,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_integrations --> navigate to Page_user_integrations
+step 6: At Page_user_integrations click on button_nghi
+step 7: Add visual checkpoint at Page_user_integrations",Low
+23,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_integrations --> navigate to Page_user_integrations
+step 6: At Page_user_integrations input on input_integrate_personal_github_credentials
+step 7: At Page_user_integrations input on input_integrate_personal_github_credentials
+step 8: At Page_user_integrations click on button_integrate_personal_github_credentials
+step 9: Add visual checkpoint at Page_user_integrations",Low
+25,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_katalon_recorder_backup --> navigate to Page_user_katalon-recorder-backup
+step 6: At Page_user_katalon-recorder-backup click on hyperlink_katalon_studio_licenses --> navigate to Page_user_license
+step 7: Add visual checkpoint at Page_user_license",Low
+24,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on hyperlink_integrations --> navigate to Page_user_integrations
+step 6: At Page_user_integrations click on div_object
+step 7: Add visual checkpoint at Page_user_integrations",Low
+4,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_nghi
+step 4: At Page_home click on hyperlink_user --> navigate to Page_user_settings
+step 5: At Page_user_settings click on div_object
+step 6: Add visual checkpoint at Page_user_settings",Low
+3,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on hyperlink_team_project --> navigate to Page_project
+step 4: At Page_project click on button_g5_record_test_case
+step 5: Add visual checkpoint at Page_project",Low
+2,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_home
+step 3: At Page_home click on button_settings
+step 4: Add visual checkpoint at Page_home",Low
+1,"step 1: Navigate to Page_login
+step 2: Login at Page_login --> navigate to Page_user_license_create_kse
+step 3: Add visual checkpoint at Page_user_license_create_kse",Trivial
+67,"step 1: Navigate to Page_error-sso
+step 2: Add visual checkpoint at Page_error-sso",Trivial
+68,"step 1: Navigate to Page_organization
+step 2: Add visual checkpoint at Page_organization",Trivial
