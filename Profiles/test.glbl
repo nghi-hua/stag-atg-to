@@ -2,12 +2,12 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'nghi.hua@katalon.com'</initValue>
+        <initValue>'ptlai98@gmail.com'</initValue>
         <name>username</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'Abcd@1234'</initValue>
+        <initValue>'@Katalon2022@'</initValue>
         <name>password</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
@@ -15,8 +15,8 @@
         <initValue>'https://testops.staging.katalon.com'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
-    <name>TestTO</name>
+    <name>test</name>
     <tag></tag>
 </GlobalVariableEntities>
