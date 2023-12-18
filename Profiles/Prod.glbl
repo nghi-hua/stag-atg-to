@@ -12,11 +12,11 @@
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'https://testops.staging.katalon.com'</initValue>
+        <initValue>'https://testops.katalon.io'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
-    <name>test</name>
+    <name>Prod</name>
     <tag></tag>
 </GlobalVariableEntities>
